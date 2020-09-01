@@ -1,2 +1,2 @@
 # tf-gh-actions-demo
-Terraform Github Actions demo
+Terraform Github Actions example
